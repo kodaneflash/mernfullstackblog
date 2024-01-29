@@ -10,6 +10,7 @@ const firebaseConfig = {
     messagingSenderId: "400332606954",
     appId: "1:400332606954:web:9c10f8acea82bc95feb693"
   };
+// eslint-disable-next-line no-unused-vars
 const app = initializeApp(firebaseConfig);
 
 // google auth
